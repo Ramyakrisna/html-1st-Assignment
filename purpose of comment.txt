@@ -1,0 +1,27 @@
+Purpose of comments in HTML:
+1 The main purpose of comment is it will hidden the required content
+2 HTML comments will not render in the browser but it can view in the source code
+3 The main syntax of comment is <!--Write your comment here -->
+4 It has exclamatory point only in the start tag not in the end tag
+5 comments in html are used for notifications and remainders
+6 we can hide more than one line. The content in between the < !--       --> will be hidden from the browser
+
+For example
+
+<!DOCTYPE html>
+<html lang="en">
+</html>
+<head>
+    <title>custom title</title>
+
+</head>
+<body>
+    <h1>purpose of comments in html </h1>
+    <!-- <h1>how to use comments in html</h1>  -->
+</body>   
+</html>
+
+
+OUTPUT:
+
+Purpose of comments in html
