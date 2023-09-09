@@ -1,0 +1,6 @@
+Doc type declaration:
+1 All Html documents must start with a <!DOCTYPE> declaration
+2 The declaration is not an HTML tag. It is an information to the web browser about what version of HTML the page is written in
+3 In HTML5 declaration is very simple
+4 The <!DOCTYPE> declaration is NOT case sensitive
+5 In HTML 4.01, the DOCTYPE declaration refers to a document type definition (DTD)
