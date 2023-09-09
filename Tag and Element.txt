@@ -1,0 +1,17 @@
+HTML Tag :
+1 It consists of an opening bracket and a closing bracket
+2 Usually consist of reserved keywords that have a unique meaning
+
+HTML ELEMENT
+1 It consists of a start tag, content and an end tag
+2 It consists of a generalized component that user wants to Render on their HTML page  
+
+Structure of Html element is:
+<tag name> ....content.....<tag name>
+
+Example:
+
+<h1>Ramya Chitturi</h1>
+
+Output 
+Ramya Chitturi
